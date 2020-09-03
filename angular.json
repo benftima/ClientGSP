@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ClientGSP"
+    }
+  },
+  "defaultProject": "ClientGSP",
+  "cli": {
+    "analytics": "cdd5ceff-bf87-4e7d-b486-7a08f31e31a0"
+  }
 }
